@@ -22,14 +22,6 @@ A lightweight and interactive stopwatch built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## 📂 Project Structure
-├── index.html
-├── style.css
-└── script.js
-
-
----
-
 ## 📌 How to Use
 
 1. Clone the repository:
